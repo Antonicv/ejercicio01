@@ -12,7 +12,7 @@ array_fruta_nuevo [i] = array_fruta [i].charAt(0).toUpperCase()+ array_fruta[i].
 array_fruta_nuevo.push ("limones")   //añade al final del array 
 // pop quita el ultimo elemento
 let ultima_fruta = array_fruta.pop
-console.log (array_fruta
+console.log (array_fruta)
 // elimina el primero
 .shift
    }

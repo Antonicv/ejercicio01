@@ -18,4 +18,3 @@ console.log (array_fruta)
 
 array_fruta.push ("limones")
 console.log (array_fruta)
-
